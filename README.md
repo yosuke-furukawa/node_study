@@ -21,6 +21,16 @@ Node.jsでゼロから、とは言わないまでも基礎を把握し、色ん�
 
 - [REPL](/001_use_REPL)
 - [Node.jsでHelloWorld](/002_helloworld)
+- [Node.jsのモジュールの作り方](/003_module)
+- [NPMでのモジュール探訪](/004_npm)
+- [ExpressとSocket.io(TODO)](/)
+
+参考文献
+-----------------
+
+- [NodeBook](http://nodebook.lexogram.com:5555/tutorials/simpleServer/tutorial/)
+- [Art of Node](https://github.com/maxogden/art-of-node)
+- [Nodeハンズオン](http://dl.dropboxusercontent.com/u/219436/node.js/handson/build/html/index.html)
 
 
 
