@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  form(action='/bbs', method='post')
+    textarea(name='message')
+    input(type='submit', value='submit')
+  ul
+    each val in messages
+      if val
+        li= val
