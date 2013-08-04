@@ -34,5 +34,8 @@ Node.jsでゼロから、とは言わないまでも基礎を把握し、色ん�
 - [Art of Node](https://github.com/maxogden/art-of-node)
 - [Nodeハンズオン](http://dl.dropboxusercontent.com/u/219436/node.js/handson/build/html/index.html)
 
+作者
+-----------------
+[yosuke_furukawa](https://twitter.com/yosuke_furukawa)
 
 
