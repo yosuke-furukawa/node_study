@@ -56,7 +56,7 @@ $ open http://localhost:3000/
 変更するには、以下のコマンドを実行してから再実行して下さい。
 
 ```shell
-$ export PATH=3001
+$ export PORT=3001
 $ node app
 ```
 
