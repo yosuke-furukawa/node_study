@@ -1,8 +1,8 @@
-var http = require('http');
+var https = require('https');
 
 var JSCafe = {
   request : function(url, callback) {
-    http.get(url, function(res){
+    https.get(url, function(res){
       res.setEncoding('utf-8');
       var buffer = '';
       res.on('readable', function(){
